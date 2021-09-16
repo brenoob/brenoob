@@ -7,9 +7,10 @@
 - 
 - 📫 How to reach me 
 - 
-Instagram https://www.instagram.com/brenekatt/ @brenekatt
+linkedin https://www.linkedin.com/in/breno-batista-oliveira-50088b183/
 
-or Facebook https://www.facebook.com/breno.batista.Gaara
+or Instagram https://www.instagram.com/brenekatt/ @brenekatt
+
 
 //português
 - 👋 oi, sou breno batista
@@ -20,9 +21,9 @@ or Facebook https://www.facebook.com/breno.batista.Gaara
 - 
 - 📫 Como me encontrar 
 - 
-Instagram https://www.instagram.com/brenekatt/ @brenekatt
+linkedin https://www.linkedin.com/in/breno-batista-oliveira-50088b183/
 
-ou Facebook https://www.facebook.com/breno.batista.Gaara
+ou Instagram https://www.instagram.com/brenekatt/ @brenekatt
 
 <!---
 brenoob/brenoob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
