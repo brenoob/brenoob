@@ -1,3 +1,12 @@
+oi sou Breno Batista
+
+
+
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brenoob&show_icons=true&theme=dracula)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenoob&show_icons=true&theme=dracula&layout=compact)](https://github.com/brenoob/github-readme-stats)
+
+
+
 //Inglish
 - 👋 Hi, I’m breno batista
 - 
