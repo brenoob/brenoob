@@ -10,7 +10,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenoob&show_icons=true&theme=tokyonight&layout=compact" />
 </a>
 
-<div>
+<div align="center">
   </br>
   <img align="center" alt="breno-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="max-width: 100%;">
   
