@@ -5,12 +5,13 @@
     </a>
   </h3>
 </div>
+
 <div align="center">
   <a href="https://github.com/brenoob/github-readme-stats">  
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=brenoob&show_icons=true&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=brenoob&show_icons=true&theme=tokyonight" height="200px" />
   </a>
   <a href="https://github.com/brenoob/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenoob&show_icons=true&theme=tokyonight&layout=compact" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenoob&show_icons=true&theme=tokyonight&layout=compact" height="200px"/>
   </a>
 </div>
 <div align="center">
