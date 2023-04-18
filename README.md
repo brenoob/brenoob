@@ -15,15 +15,15 @@
 </div>
 <div align="center">
   </br>
-  <img align="center" alt="breno-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" target="_blank" style="max-width: 100%;"/>
+  <img alt="breno-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" target="_blank" style="max-width: 100%;"/>
 
-  <img align="center" alt="breno-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" target="_blank" style="max-width: 100%;"/>
+  <img alt="breno-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" target="_blank" style="max-width: 100%;"/>
 
-  <img align="center" alt="breno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" target="_blank" style="max-width: 100%;"/>
+  <img alt="breno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" target="_blank" style="max-width: 100%;"/>
     
-  <img align="center" alt="breno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" target="_blank" style="max-width: 100%;"/>
+  <img alt="breno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" target="_blank" style="max-width: 100%;"/>
 
-  <img align="center" alt="breno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" target="_blank" style="max-width: 100%;"/>
+  <img alt="breno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" target="_blank" style="max-width: 100%;"/>
   </br>
 </div>
   
