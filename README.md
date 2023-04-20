@@ -16,9 +16,6 @@
 </div>
 <div align="center">
   </br>
-  <img alt="breno-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" target="_blank" style="max-width: 100%;"/>
-
-  <img alt="breno-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" target="_blank" style="max-width: 100%;"/>
 
   <img alt="breno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" target="_blank" style="max-width: 100%;"/>
     
