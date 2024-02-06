@@ -1,32 +1,206 @@
-<div>
-  <h3 align="center">oi sou Breno Batista e este e o meu contato
-    <a href="https://www.linkedin.com/in/brenobatistadevs/" rel="nofollow">
-      <img align="center" src="https://camo.githubusercontent.com/c00f87aeebbec37f3ee0857cc4c20b21fefde8a96caf4744383ebfe44a47fe3f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d2532333030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%; border-radius:8px;" />
-    </a>
-  </h3>
-</div>
+<!-- <meta http-equiv="refresh" content="3" > -->
+<h1 align="center">Hi 👋, I'm Breno</h1>
+<h3 align="center">A passionate software developer from Brasil</h3>
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=brenoob&label=Profile%20views&color=0e75b6&style=flat"
+    alt="brenoob"
+  />
+</p>
 
 <div align="center">
-  <a href="https://github.com/brenoob/github-readme-stats">  
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=brenoob&show_icons=true&theme=tokyonight&hide_border=true" height="200px" />
-  </a>
-  <a href="https://github.com/brenoob/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenoob&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&card_width=395px" height="200px"/>
+  - 🌱 I’m currently learning
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+    <img
+      align="center"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
+      alt="vuejs"
+      width="15"
+      height="25"
+    />
   </a>
 </div>
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="https://dev.to/brenekat" target="blank"
+    ><img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg"
+      alt="brenekat"
+      height="30"
+      width="40"
+  /></a>
+  <a href="https://linkedin.com/in/brenobatistadevs" target="blank"
+    ><img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="brenobatistadevs"
+      height="30"
+      width="40"
+  /></a>
+</p>
+
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+      alt="html5"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+      alt="css3"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a
+    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      alt="javascript"
+      width="30"
+      height="40"
+    />
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+      alt="nodejs"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+      alt="express"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+      alt="mongodb"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
+      alt="postgresql"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
+      alt="postman"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
+      alt="docker"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+      alt="git"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+      alt="react"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
+      alt="vuejs"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
+      alt="sass"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+      alt="bootstrap"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
+      alt="tailwind"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer">
+    <img
+      src="https://bestofjs.org/logos/vuetify.svg"
+      alt="vuetify"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
+      alt="figma"
+      width="40"
+      height="40"
+    />
+  </a>
+</p>
+
 <div align="center">
-  </br>
-
-  <img alt="breno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" target="_blank" style="max-width: 100%;"/>
-    
-  <img alt="breno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" target="_blank" style="max-width: 100%;"/>
-
-  <img alt="breno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" target="_blank" style="max-width: 100%;"/>
-  </br>
+  <a>
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api?username=brenoob&show_icons=true&locale=en&theme=tokyonight&layout=compact&hide_border=true"
+      height="200px"
+      alt="brenoob"
+    />
+  </a>
+  <a>
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=brenoob&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&card_width=395px"
+      height="200px"
+      alt="brenoob"
+    />
+  </a>
 </div>
-  
-<!---
-brenoob/brenoob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-  
