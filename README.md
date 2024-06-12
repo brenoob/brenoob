@@ -1,6 +1,6 @@
 <!-- <meta http-equiv="refresh" content="3" > -->
 <h1 align="center">Hi 👋, I'm Breno</h1>
-<h3 align="center">A passionate software developer from Brasil</h3>
+<h2 align="center">A passionate software developer from Brasil</h2>
 
 <p align="center">
   <img
@@ -43,33 +43,22 @@
 </p>
 
 <h3 align="center">repository filter by language in github:</h3>
-<p align="center">
+<div class="filter-languages" align="center">
   
-  <a href="https://github.com/brenoob?tab=repositories&q=&type=&language=html" target="_blank" rel="noreferrer">
+  <a style="text-decoration:none;" href="https://github.com/brenoob?tab=repositories&q=&type=&language=typescript" target="_blank" rel="noreferrer">
     <img
-      src="https://github.com/brenoob/brenoob/blob/main/assets/html.svg"
-      alt="html5"
+      src="https://github.com/brenoob/brenoob/blob/main/assets/typescript.svg"
+      alt="typescript"
       width="40"
       height="40"
     />
   </a>
   
-  <a href="https://github.com/brenoob?tab=repositories&q=&type=&language=css" target="_blank" rel="noreferrer">
-    <img
-      src="https://github.com/brenoob/brenoob/blob/main/assets/css.svg"
-      alt="css3"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://github.com/brenoob?tab=repositories&q=&type=&language=javascript"
-    target="_blank"
-    rel="noreferrer"
-  >
+  <a href="https://github.com/brenoob?tab=repositories&q=&type=&language=javascript" target="_blank" rel="noreferrer">
     <img
       src="https://github.com/brenoob/brenoob/blob/main/assets/javascript.svg"
       alt="javascript"
-      width="30"
+      width="40"
       height="40"
     />
   </a>
@@ -92,8 +81,27 @@
     />
   </a>
   
+  <a href="https://github.com/brenoob?tab=repositories&q=&type=&language=html" target="_blank" rel="noreferrer">
+    <img
+      src="https://github.com/brenoob/brenoob/blob/main/assets/html.svg"
+      alt="html5"
+      width="40"
+      height="40"
+    />
+  </a>
+  
+  <a href="https://github.com/brenoob?tab=repositories&q=&type=&language=css" target="_blank" rel="noreferrer">
+    <img
+      src="https://github.com/brenoob/brenoob/blob/main/assets/css.svg"
+      alt="css3"
+      width="40"
+      height="40"
+    />
+  </a>
+  </div>
+  
 <h3 align="center">Tools:</h3>
-<p align="center">
+<div class="tools-languages"  align="center">
   
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img
@@ -165,9 +173,9 @@
       height="40"
     />
   </a>
-</p>
-
-<div align="center">
+</div>
+<br>
+<div class="statistcs" align="center">
   <a>
     <img
       align="center"
