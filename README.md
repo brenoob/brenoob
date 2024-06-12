@@ -27,17 +27,17 @@
   <a href="https://dev.to/brenekat" target="blank"
     ><img
       align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg"
+      src="https://github.com/brenoob/brenoob/blob/main/assets/social-networks-icon/devto.svg"
       alt="brenekat"
-      height="30"
+      height="40"
       width="40"
   /></a>
   <a href="https://linkedin.com/in/brenobatistadevs" target="blank"
     ><img
       align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      src="https://github.com/brenoob/brenoob/blob/main/assets/social-networks-icon/linkedin.svg"
       alt="brenobatistadevs"
-      height="30"
+      height="40"
       width="40"
   /></a>
 </p>
@@ -45,9 +45,9 @@
 <h3 align="center">repository filter by language in github:</h3>
 <div class="filter-languages" align="center">
   
-  <a style="text-decoration:none;" href="https://github.com/brenoob?tab=repositories&q=&type=&language=typescript" target="_blank" rel="noreferrer">
+  <a href="https://github.com/brenoob?tab=repositories&q=&type=&language=typescript" target="_blank" rel="noreferrer">
     <img
-      src="https://github.com/brenoob/brenoob/blob/main/assets/typescript.svg"
+      src="https://github.com/brenoob/brenoob/blob/main/assets/language-filter-icons/typescript.svg"
       alt="typescript"
       width="40"
       height="40"
@@ -56,7 +56,7 @@
   
   <a href="https://github.com/brenoob?tab=repositories&q=&type=&language=javascript" target="_blank" rel="noreferrer">
     <img
-      src="https://github.com/brenoob/brenoob/blob/main/assets/javascript.svg"
+      src="https://github.com/brenoob/brenoob/blob/main/assets/language-filter-icons/javascript.svg"
       alt="javascript"
       width="40"
       height="40"
@@ -65,7 +65,7 @@
   
   <a href="https://github.com/brenoob?tab=repositories&q=&type=&language=vue" target="_blank" rel="noreferrer">
     <img
-      src="https://github.com/brenoob/brenoob/blob/main/assets/vue.svg"
+      src="https://github.com/brenoob/brenoob/blob/main/assets/language-filter-icons/vue.svg"
       alt="vuejs"
       width="40"
       height="40"
@@ -74,7 +74,7 @@
   
   <a href="https://github.com/brenoob?tab=repositories&q=&type=&language=javascript" target="_blank" rel="noreferrer">
     <img
-      src="https://github.com/brenoob/brenoob/blob/main/assets/nodejs.svg"
+      src="https://github.com/brenoob/brenoob/blob/main/assets/language-filter-icons/nodejs.svg"
       alt="nodejs"
       width="40"
       height="40"
@@ -83,7 +83,7 @@
   
   <a href="https://github.com/brenoob?tab=repositories&q=&type=&language=html" target="_blank" rel="noreferrer">
     <img
-      src="https://github.com/brenoob/brenoob/blob/main/assets/html.svg"
+      src="https://github.com/brenoob/brenoob/blob/main/assets/language-filter-icons/html.svg"
       alt="html5"
       width="40"
       height="40"
@@ -92,7 +92,7 @@
   
   <a href="https://github.com/brenoob?tab=repositories&q=&type=&language=css" target="_blank" rel="noreferrer">
     <img
-      src="https://github.com/brenoob/brenoob/blob/main/assets/css.svg"
+      src="https://github.com/brenoob/brenoob/blob/main/assets/language-filter-icons/css.svg"
       alt="css3"
       width="40"
       height="40"
@@ -105,17 +105,17 @@
   
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+      src="https://github.com/brenoob/brenoob/blob/main/assets/languages-tools/express.svg"
       alt="express"
       width="40"
       height="40"
     />
   </a>
   
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.sqlite.org/docs.html" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-      alt="mongodb"
+      src="https://github.com/brenoob/brenoob/blob/main/assets/languages-tools/sqlite.svg"
+      alt="sqlite"
       width="40"
       height="40"
     />
@@ -123,7 +123,7 @@
   
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
+      src="https://github.com/brenoob/brenoob/blob/main/assets/languages-tools/postgres.svg"
       alt="postgresql"
       width="40"
       height="40"
@@ -132,7 +132,7 @@
   
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img
-      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
+      src="https://github.com/brenoob/brenoob/blob/main/assets/languages-tools/postman.svg"
       alt="postman"
       width="40"
       height="40"
@@ -141,33 +141,16 @@
   
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+      src="https://github.com/brenoob/brenoob/blob/main/assets/languages-tools/git.svg"
       alt="git"
       width="40"
       height="40"
     />
   </a>
   
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
+      src="https://github.com/brenoob/brenoob/blob/main/assets/languages-tools/tailwind.svg"
       alt="tailwind"
       width="40"
       height="40"
